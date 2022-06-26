@@ -1,0 +1,45 @@
+{
+  "name": "Cesar Javier Hernandez Bautista",
+  "dName": "Cesar Hernandez",
+  "nickName": "CsrHernandez",
+  "skills": [
+    ["JavaScript", 80],
+    ["PHP", 80],
+    ["Python", 60],
+    ["Java", 60],
+    ["C#", 60],
+    ["HTML", 80],
+    ["CSS", 80],
+    ["SASS", 60],
+    ["JQuery", 60],
+    ["Express", 80],
+    ["CodeIgniter", 80],
+    ["Laravel", 50],
+    ["React", 80],
+    ["Vue", 70],
+    ["Bootstrap", 80],
+    ["MUI", 70]
+  ],
+  "experence": {
+    "work": [
+      {
+        "title": "Tallerista",
+        "description": "",
+        "company": "",
+        "initialDate": "",
+        "finalyDate": "",
+        "current": false
+      }
+    ],
+    "educations": [
+      {
+        "title": "",
+        "description": "",
+        "academy": "",
+        "initialDate": "",
+        "finalyDate": "",
+        "current": false
+      }
+    ]
+  }
+}
